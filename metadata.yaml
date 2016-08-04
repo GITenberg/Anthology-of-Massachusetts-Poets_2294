@@ -1,0 +1,28 @@
+_repo: Anthology-of-Massachusetts-Poets_2294
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Braithwaite, William Stanley
+    aliases:
+    - Braithwaite, William Stanley Beaumont
+    - Braithwaite, W. S. (William Stanley)
+    birthdate: 1878
+    deathdate: 1962
+    gutenberg_agent_id: '865'
+    url: http://www.gutenberg.org/2009/agents/865
+description: ''
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcsh 'American literature -- Massachusetts'
+- !lcc 'PS'
+- GITenberg
+title: Anthology of Massachusetts Poets
+url: http://www.gutenberg.org/ebooks/2294
